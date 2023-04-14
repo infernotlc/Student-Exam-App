@@ -1,6 +1,6 @@
 # myapp2
 
-A new Flutter project.
+Listing students, their names, grades. Editing, deleting and showing on the main page
 
 ## Getting Started
 
